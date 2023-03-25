@@ -41,7 +41,6 @@ string[] CreateStringArray()
 }
 
 
-//string[] arrayToWork = { "asdf", "2345" };
 string[] arrayToWork = CreateStringArray();
 ShowStringArray(arrayToWork);
 string[] resultArray = FormArrayOfShortStrings(arrayToWork);
